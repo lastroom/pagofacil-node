@@ -1,0 +1,20 @@
+{
+    "name": "pagofacil",
+    "description": "PagoFacil node.js wrapper.",
+    "version": "0.0.1",
+    "_id": "pagofacil@0.0.1",
+    "dependencies": {
+        "request": "latest"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lastroom/pagofacil-node"
+    },
+    "main": "./pagofacil.js",
+    "engines": {
+        "node": ">=0.10.15"
+    },
+    "optionalDependencies": {},
+    "scripts": {}
+}
